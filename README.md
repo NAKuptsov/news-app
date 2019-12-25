@@ -1,2 +1,2 @@
 # news-app
-Simple news app on JavaScript
+Simple news app on JavaScript + Materialize
